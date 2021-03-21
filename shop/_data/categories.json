@@ -1,0 +1,35 @@
+{
+    "succes": true,
+    "parent": {
+        "subcategories": [
+            {
+                "childreen": [
+                    {
+                        "name": "Child Kateqoriya",
+                        "description": "Bu Child Kateqoriyadir",
+                        "__v": 0
+                    }
+                ],
+                "name": "Alt Kateqoriya",
+                "description": "Bu Alt Kateqoriyadir",
+                "__v": 1
+            },
+            {
+                "childreen": [
+                    {
+                        "name": "Child Kateqoriya 2",
+                        "description": "Bu Child 2 Kateqoriyadir",
+                        "__v": 0
+                    }
+                ],
+                "name": "Sub Kateqoriya 2",
+                "description": "Bu Alt 2 Kateqoriyadir",
+                "__v": 1
+            }
+        ],
+        "_id": "6050b47b88966d1ff040ee24",
+        "name": "Esas Kateqoriya",
+        "description": "Bu Esas Kateqoriyadir",
+        "__v": 2
+    }
+}
